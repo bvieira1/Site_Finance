@@ -403,8 +403,34 @@ header nav ul li a.active
 .seman .btn1
 {
    text-align: center;
+    width: 170px;
+    height: 50px;
+    position: absolute;
+    left: 38%;
+    margin-top: 300px;
+    border-radius: 50px;
+    color: #009688;
+    font-size: 23px;
+    font-weight: bold;
+    background: #fff;
+    padding: 8px;
   
 }
+.seman .btn2
+{
+   text-align: center;
+    width: 170px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-top: 300px;
+    border-radius: 60px;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 300;
+     padding: 5px;
+    border: 3px solid #fff;
+  
 
 /* mobile*/
 
